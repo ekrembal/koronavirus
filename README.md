@@ -1,16 +1,14 @@
 # evdekalturkiye
 
-A new Flutter project.
+Evde Kal Türkiye Yeni Koronavirüs hakkında farkındalık geliştirmek ve halki bilgilendirmek için flutter ve firebase kullanılarak geliştirilmekte olan bir uygulamadır.
 
-## Getting Started
+Eğer katkıda bulunmak veya projenin bir parçası olmak isterseniz iletişime geçiniz.
 
-This project is a starting point for a Flutter application.
+## Kaynakça
+
+Projenin gelişiminde kullandığım veya kullanacağım kaybaklar:
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Günlük vaka sayıları](https://covid19bilgi.saglik.gov.tr/tr/gunluk-vaka)
+- [Tespit için kullandığımız test](https://covid19bilgi.saglik.gov.tr/depo/formlar/COVID19-VAKA-SORGULAMA-KILAVUZU-A4_1.pdf)
