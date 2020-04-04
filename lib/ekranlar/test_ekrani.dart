@@ -1,3 +1,4 @@
+import 'package:evdekalturkiye/ekranlar/vaka_sayisi_ekrani.dart';
 import 'package:flutter/material.dart';
 
 class TestEkrani extends StatefulWidget {
@@ -8,7 +9,6 @@ class TestEkrani extends StatefulWidget {
 class _TestEkraniState extends State<TestEkrani> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-    );
+    return VakaSayisiEkrani();
   }
 }
